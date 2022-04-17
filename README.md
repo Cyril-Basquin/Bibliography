@@ -5,6 +5,7 @@ Papers that I published in International peer-review journals
 
 ## List of the papers:
 
+**Basquin C**, Gaudin N, Azimzadeh J. Generating bileteral symmetry from asymmetrical components. **Med sci 2021**, 37(3), 213-215.
 
 **Basquin C**, Ershov D, Gaudin N, Vu HT, Louis B, Papon JF, Orfila AM, Mansour S Rink JC and Azimzadeh J. Emergence of a Bilaterally Symmetric Pattern from chiral components in the Planarian Epidermis. **Dev Cell 2019** 51, 516-525.
 
